@@ -25,6 +25,9 @@ swifts = [
 	"http://i.imgur.com/dSXqGMA.jpg",
 	"http://i.imgur.com/ONQdojh.jpg",
 	"http://i.imgur.com/BPsUdMN.jpg",
+	"http://i.imgur.com/gYniO4S.jpg",
+	
+	
 ]
 
 get '/gallery' do
